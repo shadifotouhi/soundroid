@@ -1,0 +1,57 @@
+{
+	"name": "soundroid",
+	"displayName": "soundroid",
+	"version": "0.0.1",
+	"assets": [
+		"assets/fla/js/*.js"
+	],
+	"main": [
+		"src/cloudkid/panels/*.js",
+		"src/cloudkid/states/*.js",
+		"src/cloudkid/*.js"
+	],
+	"libraries": [
+		"components/preloadjs/lib/preloadjs.min.js",
+		"components/tweenjs/lib/tweenjs.min.js",
+		"components/easeljs/lib/easeljs.min.js",
+		"components/easeljs/lib/movieclip.min.js",
+		"components/soundjs/lib/soundjs.min.js",
+		"components/soundjs/lib/flashaudioplugin.min.js",
+		"components/bellhop/dist/bellhop.min.js",
+		"components/springroll/dist/core.min.js",
+		"components/springroll/dist/modules/display-createjs.min.js",
+		"components/springroll/dist/modules/tasks.min.js",
+		"components/springroll/dist/modules/sound.min.js",
+		"components/springroll/dist/modules/interface.min.js",
+		"components/springroll/dist/modules/captions.min.js",
+		"components/springroll/dist/modules/game.min.js",
+		"components/pbskids-game/dist/game.min.js",
+		"components/pbskids-game/dist/game.min.css",
+		"components/pbskids-game/dist/modules/hinting.min.js",
+		"components/pbskids-game/dist/modules/progress-tracker.min.js",
+		"components/pbskids-game/dist/modules/createjs-game.min.js"
+	],
+	"librariesDebug": [
+		"components/preloadjs/lib/preloadjs.combined.js",
+		"components/tweenjs/lib/tweenjs.combined.js",
+		"components/easeljs/lib/easeljs.combined.js",
+		"components/easeljs/lib/movieclip.combined.js",
+		"components/soundjs/lib/soundjs.min.js",
+		"components/soundjs/lib/flashaudioplugin.combined.js",
+		"components/bellhop/dist/bellhop.js",
+		"components/jquery/dist/jquery.min.js",
+		"components/springroll/dist/core.js",
+		"components/springroll/dist/modules/display-createjs.js",
+		"components/springroll/dist/modules/tasks.js",
+		"components/springroll/dist/modules/sound.js",
+		"components/springroll/dist/modules/interface.js",
+		"components/springroll/dist/modules/captions.js",
+		"components/springroll/dist/modules/game.js",
+		"components/pbskids-game/dist/game.js",
+		"components/pbskids-game/dist/game.css",
+		"components/pbskids-game/dist/modules/hinting.js",
+		"components/pbskids-game/dist/modules/progress-tracker.js",
+		"components/pbskids-game/dist/modules/progress-tracker.css",
+		"components/pbskids-game/dist/modules/createjs-game.js"
+	]
+}

@@ -1,0 +1,6 @@
+node_modules/
+components/
+RECOVER_*.fla
+*.sublime-*
+RECOVER_*
+npm-debug.log

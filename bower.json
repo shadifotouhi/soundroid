@@ -1,0 +1,24 @@
+{
+	"name": "soundroid",
+	"version": "0.0.1",
+	"dependencies": {
+		"normalize-less": "*",
+		"pbskids-game": "*",
+		"springroll": "*",
+		"easeljs": "https://github.com/SpringRoll/EaselJS.git",
+		"tweenjs": "https://github.com/SpringRoll/TweenJS.git",
+		"soundjs": "https://github.com/SpringRoll/SoundJS.git",
+		"bellhop": "*"
+	},
+	"ignore": [
+		".bowerrc",
+		".gitignore",
+		".gitattributes",
+		".springroll",
+		"src",
+		"tasks",
+		"springroll.json",
+		"Gruntfile.js",
+		"package.js"
+	]
+}

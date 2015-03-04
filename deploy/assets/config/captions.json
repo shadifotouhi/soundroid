@@ -1,0 +1,362 @@
+{
+	 "_1": [
+    {
+        "content": "One",
+        "start": 0,
+        "end": 510
+    }],
+    "_2": [
+    {
+        "content": "Two",
+        "start": 0,
+        "end": 540
+    }],
+    "_3": [
+    {
+        "content": "Three",
+        "start": 0,
+        "end": 560
+    }],
+    "_4": [
+    {
+        "content": "Four",
+        "start": 0,
+        "end": 560
+    }],
+    "_5": [
+    {
+        "content": "Five",
+        "start": 0,
+        "end": 570
+    }],
+    "_6": [
+    {
+        "content": "Six",
+        "start": 0,
+        "end": 640
+    }],
+    "_7": [
+    {
+        "content": "Seven",
+        "start": 0,
+        "end": 600
+    }],
+    "_8": [
+    {
+        "content": "Eight",
+        "start": 0,
+
+        "end": 470
+    }],
+    "_9": [
+    {
+        "content": "Nine",
+        "start": 0,
+        "end": 530
+    }],
+    "_10": [
+    {
+        "content": "Ten",
+        "start": 0,
+        "end": 630
+    }],
+    "ClickOnGo_mouse": [
+    {
+        "content": "Now,",
+        "start": 0,
+        "end": 610
+    },
+    {
+        "content": "click on the green \"go\" button!",
+        "start": 670,
+        "end": 2970
+    }],
+    "ClickOnGo_touch": [
+    {
+        "content": "Now,",
+        "start": 0,
+        "end": 610
+    },
+    {
+        "content": "tap the green \"go\" button!",
+        "start": 670,
+        "end": 2970
+    }],
+    "GreatFlying": [
+    {
+        "content": "Great flying!",
+        "start": 0,
+        "end": 1600
+    },
+    {
+        "content": "Time for the last round.",
+        "start": 1711,
+        "end": 3751
+    }],
+    "IfYouChangeYourMind_mouse": [
+    {
+        "content": "If you change you mind, ",
+        "start": 0,
+        "end": 1260
+    },
+    {
+        "content": "you can click on a different space to move your dinosaur.",
+        "start": 1280,
+        "end": 4280
+    }],
+    "IfYouChangeYourMind_touch": [
+    {
+        "content": "If you change you mind, ",
+        "start": 0,
+        "end": 1260
+    },
+    {
+        "content": "you can tap a different space to move your dinosaur.",
+        "start": 1280,
+        "end": 4280
+    }],
+    "Intro": [
+    {
+        "content": "Time for some high-flying action, folks!",
+        "start": 0,
+        "end": 2820
+    },
+    {
+        "content": "The Claw Stars",
+        "start": 2867,
+        "end": 3977
+    },
+    {
+        "content": "meet the Prehistoric Predators!",
+        "start": 4006,
+        "end": 6186
+    }],
+    "ObjectiveBetweenCliff": [
+    {
+        "content": "I want you to land in between the cliff and the other dinosaur.",
+        "start": 0,
+        "end": 5070
+    }],
+    "ObjectiveBetweenTree": [
+    {
+        "content": "I want you to land in between the tree and the other dinosaur.",
+        "start": 0,
+        "end": 4990
+    }],
+    "ObjectiveCloseAs": [
+    {
+        "content": "I want you to land as close as possible to the other dinosaur.",
+        "start": 0,
+        "end": 4770
+    }],
+    "ObjectiveCloserCliff": [
+    {
+        "content": "I want you to land closer to the cliff than the other dinosaur did.",
+        "start": 0,
+        "end": 5080
+    }],
+    "ObjectiveCloserTree": [
+    {
+        "content": "I want you to land closer to the tree than the other dinosaur did.",
+        "start": 0,
+        "end": 4540
+    }],
+    "ObjectiveFlyFurtherThanOther": [
+    {
+        "content": "I want you to fly farther than the other dinosaur did.",
+        "start": 0,
+        "end": 3760
+    }],
+    "Outro": [
+    {
+        "content": "And the Claw Stars take the gold from the Prehistoric Predators, Folks!",
+        "start": 0,
+        "end": 4280
+    },
+    {
+        "content": "What a game!",
+        "start": 4328,
+        "end": 5788
+    }],
+    "PracticeRun_mouse": [
+    {
+        "content": "Let's take a practice run!",
+        "start": 0,
+        "end": 2190
+    },
+    {
+        "content": "First, click the space where you want your dinosaur to start.",
+        "start": 2230,
+        "end": 5970
+    }],
+    "PracticeRun_touch": [
+    {
+        "content": "Let's take a practice run!",
+        "start": 0,
+        "end": 2190
+    },
+    {
+        "content": "First, tap the space where you want your dinosaur to start.",
+        "start": 2230,
+        "end": 5970
+    }],
+    "Space": [
+    {
+        "content": "space.",
+        "start": 0,
+        "end": 840
+    }],
+    "Spaces": [
+    {
+        "content": "spaces.",
+        "start": 0,
+        "end": 880
+    }],
+    "TheFurtherBackTutorial": [
+    {
+        "content": "That's it! ",
+        "start": 0,
+        "end": 840
+    },
+    {
+        "content": "The further back you start, the further your dinosaur will fly!",
+        "start": 878,
+        "end": 4698
+    }],
+    "TheFurtherBack": [
+    {
+        "content": "That's it! ",
+        "start": 0,
+        "end": 840
+    },
+    {
+        "content": "The further back you start, the further your dinosaur will fly!",
+        "start": 878,
+        "end": 4698
+    },
+    {
+        "content": "Take one more practice flight and try to fly as far as you can.",
+        "start": 4817,
+        "end": 9007
+    }],
+    "TheOtherTeamWillFlyFirst": [
+    {
+        "content": "The other team will fly first.",
+        "start": 0,
+        "end": 2220
+    },
+    {
+        "content": "To win the gold, follow my instructions.",
+        "start": 2350,
+        "end": 5520
+    },
+    {
+        "content": "I'll tell you where to land.",
+        "start": 5542,
+        "end": 6952
+    }],
+    "ThereGoesTheOther": [
+    {
+        "content": "There goes the other team.",
+        "start": 0,
+        "end": 1660
+    }],
+    "TutorialVO": [
+    {
+        "content": "First, click the space where you want your dinosaur to start.",
+        "start": 0,
+        "end": 4840
+    },
+    {
+        "content": "The further back you start, the farther your dinosaur will fly!",
+        "start": 4840,
+        "end": 8500
+    },
+    {
+        "content": "Now, click on the green go button.",
+        "start": 9520,
+        "end": 12640
+    },
+    {
+        "content": "You did it!",
+        "start": 15341,
+        "end": 16911
+    }],
+    "WrongBetweenCliff": [
+    {
+        "content": "Almost!",
+        "start": 0,
+        "end": 2180
+    },
+    {
+        "content": "But you didn't land between the cliff and the other dinosaur.",
+        "start": 2180,
+        "end": 6550
+    }],
+    "WrongBetweenTree": [
+    {
+        "content": "Almost!",
+        "start": 0,
+        "end": 980
+    },
+    {
+        "content": "But you didn't land in between the tree and the other dinosaur.",
+        "start": 1057,
+        "end": 5327
+    }],
+    "WrongOver": [
+    {
+        "content": "So close!",
+        "start": 180,
+        "end": 1960
+    },
+    {
+        "content": "But you flew too far.",
+        "start": 1955,
+        "end": 3285
+    },
+    {
+        "content": "Try again!",
+        "start": 3330,
+        "end": 4410
+    }],
+    "WrongUnder": [
+    {
+        "content": "Almost!",
+        "start": 0,
+        "end": 1350
+    },
+    {
+        "content": "But you didn't fly far enough.",
+        "start": 1440,
+        "end": 3380
+    },
+    {
+        "content": "Try again!",
+        "start": 3491,
+        "end": 4521
+    }],
+    "YouDidIt": [
+    {
+        "content": "You did it!",
+        "start": 0,
+        "end": 1540
+    }],
+    "YouMovedYourDinosaur": [
+    {
+        "content": "You moved your dinosaur",
+        "start": 0,
+        "end": 1430
+    }],
+    "FirstClickTheSpace": [
+    {
+        "content": "First,",
+        "start": 0,
+        "end": 670
+    },
+    {
+        "content": "click the space where you want your dinosaur to start.",
+        "start": 736,
+        "end": 3506
+    }]
+}

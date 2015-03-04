@@ -1,0 +1,9 @@
+{
+	"Game": [
+		{
+			"src": "assets/images/createjs/GameBackground.png",
+			"id": "GameBackground"
+		}
+	],
+	"Transition": []
+}
