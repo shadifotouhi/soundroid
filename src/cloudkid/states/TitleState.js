@@ -26,7 +26,6 @@
     p.enterDone = function()
     {
         this.panel.playButton.on("click", this.onPlay);
-        this.panel.background.on("click", this.onPlay);
         this.panel.background.cursor = "pointer";
     };
 

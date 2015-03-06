@@ -134,13 +134,13 @@
      */
     var _onStatesReady = function()
     {
-        if (DEBUG)
-        {
-            this.tracker.on('track', function(data)
-            {
-                Debug.log(data.event_data);
-            });
-        }
+        // if (DEBUG)
+        // {
+        //     this.tracker.on('track', function(data)
+        //     {
+        //         Debug.log(data.event_data);
+        //     });
+        // }
     };
 
     // Assign to namespace

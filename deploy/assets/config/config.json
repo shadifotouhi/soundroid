@@ -14,7 +14,32 @@
 				"src": "assets/images/PlayButton.png"
 			}
 		],
-		"game": []
+		"game": [
+			{
+				"id": "GameBackground",
+				"src": "assets/images/GameBackground.png"
+			},
+			{
+				"id": "NextButton",
+				"src": "assets/images/NextButton.png"
+			},
+			{
+				"id": "ReplayButton",
+				"src": "assets/images/ReplayButton.png"
+			},
+			{
+				"id": "BackButton",
+				"src": "assets/images/BackButton.png"
+			},
+			{
+				"id": "numbers",
+				"src": "assets/images/numbers.png"
+			},
+			{
+				"id": "src",
+				"src": "assets/images/src.png"
+			}
+		]
 	},
 	"scaling": {
 		"transition": {
@@ -100,8 +125,8 @@
 	},
 	"sprites": {
 		"playButton": {
-			"x": 100,
-			"y": 100
+			"x": 200,
+			"y": 190
 		}
 	}
 }
