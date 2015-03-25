@@ -1,362 +1,294 @@
 {
-	 "_1": [
-    {
-        "content": "One",
-        "start": 0,
-        "end": 510
-    }],
-    "_2": [
-    {
-        "content": "Two",
-        "start": 0,
-        "end": 540
-    }],
-    "_3": [
-    {
-        "content": "Three",
-        "start": 0,
-        "end": 560
-    }],
-    "_4": [
-    {
-        "content": "Four",
-        "start": 0,
-        "end": 560
-    }],
-    "_5": [
-    {
-        "content": "Five",
-        "start": 0,
-        "end": 570
-    }],
-    "_6": [
-    {
-        "content": "Six",
-        "start": 0,
-        "end": 640
-    }],
-    "_7": [
-    {
-        "content": "Seven",
-        "start": 0,
-        "end": 600
-    }],
-    "_8": [
-    {
-        "content": "Eight",
-        "start": 0,
-
-        "end": 470
-    }],
-    "_9": [
-    {
-        "content": "Nine",
-        "start": 0,
-        "end": 530
-    }],
-    "_10": [
-    {
-        "content": "Ten",
-        "start": 0,
-        "end": 630
-    }],
-    "ClickOnGo_mouse": [
-    {
-        "content": "Now,",
-        "start": 0,
-        "end": 610
-    },
-    {
-        "content": "click on the green \"go\" button!",
-        "start": 670,
-        "end": 2970
-    }],
-    "ClickOnGo_touch": [
-    {
-        "content": "Now,",
-        "start": 0,
-        "end": 610
-    },
-    {
-        "content": "tap the green \"go\" button!",
-        "start": 670,
-        "end": 2970
-    }],
-    "GreatFlying": [
-    {
-        "content": "Great flying!",
-        "start": 0,
-        "end": 1600
-    },
-    {
-        "content": "Time for the last round.",
-        "start": 1711,
-        "end": 3751
-    }],
-    "IfYouChangeYourMind_mouse": [
-    {
-        "content": "If you change you mind, ",
-        "start": 0,
-        "end": 1260
-    },
-    {
-        "content": "you can click on a different space to move your dinosaur.",
-        "start": 1280,
-        "end": 4280
-    }],
-    "IfYouChangeYourMind_touch": [
-    {
-        "content": "If you change you mind, ",
-        "start": 0,
-        "end": 1260
-    },
-    {
-        "content": "you can tap a different space to move your dinosaur.",
-        "start": 1280,
-        "end": 4280
-    }],
-    "Intro": [
-    {
-        "content": "Time for some high-flying action, folks!",
-        "start": 0,
-        "end": 2820
-    },
-    {
-        "content": "The Claw Stars",
-        "start": 2867,
-        "end": 3977
-    },
-    {
-        "content": "meet the Prehistoric Predators!",
-        "start": 4006,
-        "end": 6186
-    }],
-    "ObjectiveBetweenCliff": [
-    {
-        "content": "I want you to land in between the cliff and the other dinosaur.",
-        "start": 0,
-        "end": 5070
-    }],
-    "ObjectiveBetweenTree": [
-    {
-        "content": "I want you to land in between the tree and the other dinosaur.",
-        "start": 0,
-        "end": 4990
-    }],
-    "ObjectiveCloseAs": [
-    {
-        "content": "I want you to land as close as possible to the other dinosaur.",
-        "start": 0,
-        "end": 4770
-    }],
-    "ObjectiveCloserCliff": [
-    {
-        "content": "I want you to land closer to the cliff than the other dinosaur did.",
-        "start": 0,
-        "end": 5080
-    }],
-    "ObjectiveCloserTree": [
-    {
-        "content": "I want you to land closer to the tree than the other dinosaur did.",
-        "start": 0,
-        "end": 4540
-    }],
-    "ObjectiveFlyFurtherThanOther": [
-    {
-        "content": "I want you to fly farther than the other dinosaur did.",
-        "start": 0,
-        "end": 3760
-    }],
-    "Outro": [
-    {
-        "content": "And the Claw Stars take the gold from the Prehistoric Predators, Folks!",
-        "start": 0,
-        "end": 4280
-    },
-    {
-        "content": "What a game!",
-        "start": 4328,
-        "end": 5788
-    }],
-    "PracticeRun_mouse": [
-    {
-        "content": "Let's take a practice run!",
-        "start": 0,
-        "end": 2190
-    },
-    {
-        "content": "First, click the space where you want your dinosaur to start.",
-        "start": 2230,
-        "end": 5970
-    }],
-    "PracticeRun_touch": [
-    {
-        "content": "Let's take a practice run!",
-        "start": 0,
-        "end": 2190
-    },
-    {
-        "content": "First, tap the space where you want your dinosaur to start.",
-        "start": 2230,
-        "end": 5970
-    }],
-    "Space": [
-    {
-        "content": "space.",
-        "start": 0,
-        "end": 840
-    }],
-    "Spaces": [
-    {
-        "content": "spaces.",
-        "start": 0,
-        "end": 880
-    }],
-    "TheFurtherBackTutorial": [
-    {
-        "content": "That's it! ",
-        "start": 0,
-        "end": 840
-    },
-    {
-        "content": "The further back you start, the further your dinosaur will fly!",
-        "start": 878,
-        "end": 4698
-    }],
-    "TheFurtherBack": [
-    {
-        "content": "That's it! ",
-        "start": 0,
-        "end": 840
-    },
-    {
-        "content": "The further back you start, the further your dinosaur will fly!",
-        "start": 878,
-        "end": 4698
-    },
-    {
-        "content": "Take one more practice flight and try to fly as far as you can.",
-        "start": 4817,
-        "end": 9007
-    }],
-    "TheOtherTeamWillFlyFirst": [
-    {
-        "content": "The other team will fly first.",
-        "start": 0,
-        "end": 2220
-    },
-    {
-        "content": "To win the gold, follow my instructions.",
-        "start": 2350,
-        "end": 5520
-    },
-    {
-        "content": "I'll tell you where to land.",
-        "start": 5542,
-        "end": 6952
-    }],
-    "ThereGoesTheOther": [
-    {
-        "content": "There goes the other team.",
-        "start": 0,
-        "end": 1660
-    }],
-    "TutorialVO": [
-    {
-        "content": "First, click the space where you want your dinosaur to start.",
-        "start": 0,
-        "end": 4840
-    },
-    {
-        "content": "The further back you start, the farther your dinosaur will fly!",
-        "start": 4840,
-        "end": 8500
-    },
-    {
-        "content": "Now, click on the green go button.",
-        "start": 9520,
-        "end": 12640
-    },
-    {
-        "content": "You did it!",
-        "start": 15341,
-        "end": 16911
-    }],
-    "WrongBetweenCliff": [
-    {
-        "content": "Almost!",
-        "start": 0,
-        "end": 2180
-    },
-    {
-        "content": "But you didn't land between the cliff and the other dinosaur.",
-        "start": 2180,
-        "end": 6550
-    }],
-    "WrongBetweenTree": [
-    {
-        "content": "Almost!",
-        "start": 0,
-        "end": 980
-    },
-    {
-        "content": "But you didn't land in between the tree and the other dinosaur.",
-        "start": 1057,
-        "end": 5327
-    }],
-    "WrongOver": [
-    {
-        "content": "So close!",
-        "start": 180,
-        "end": 1960
-    },
-    {
-        "content": "But you flew too far.",
-        "start": 1955,
-        "end": 3285
-    },
-    {
-        "content": "Try again!",
-        "start": 3330,
-        "end": 4410
-    }],
-    "WrongUnder": [
-    {
-        "content": "Almost!",
-        "start": 0,
-        "end": 1350
-    },
-    {
-        "content": "But you didn't fly far enough.",
-        "start": 1440,
-        "end": 3380
-    },
-    {
-        "content": "Try again!",
-        "start": 3491,
-        "end": 4521
-    }],
-    "YouDidIt": [
-    {
-        "content": "You did it!",
-        "start": 0,
-        "end": 1540
-    }],
-    "YouMovedYourDinosaur": [
-    {
-        "content": "You moved your dinosaur",
-        "start": 0,
-        "end": 1430
-    }],
-    "FirstClickTheSpace": [
-    {
-        "content": "First,",
-        "start": 0,
-        "end": 670
-    },
-    {
-        "content": "click the space where you want your dinosaur to start.",
-        "start": 736,
-        "end": 3506
-    }]
+	"DemoVOLine": {
+		"lines": [
+			{
+				"content": "Let's take a practice run.",
+				"end": 2120,
+				"start": 0
+			},
+			{
+				"content": "First, click the space where you want your dinosaur to start.",
+				"end": 5370,
+				"start": 2200
+			}
+		]
+	},
+	"Intro": {
+		"lines": [
+			{
+				"content": "Time for some high-flying action folks!",
+				"end": 2896,
+				"start": 0
+			},
+			{
+				"content": "The claw stars meet the prehistoric predators.",
+				"end": 6260,
+				"start": 3030
+			}
+		]
+	},
+	"count1": [
+		{
+			"content": "1",
+			"start": 0,
+			"end": 1200
+		}
+	],
+	"count2": [
+		{
+			"content": "2",
+			"start": 0,
+			"end": 1200
+		}
+	],
+	"count3": [
+		{
+			"content": "3",
+			"start": 0,
+			"end": 1200
+		}
+	],
+	"count4": [
+		{
+			"content": "4",
+			"start": 0,
+			"end": 1200
+		}
+	],
+	"count5": [
+		{
+			"content": "5",
+			"start": 0,
+			"end": 1200
+		}
+	],
+	"count6": [
+		{
+			"content": "6",
+			"start": 0,
+			"end": 1200
+		}
+	],
+	"count7": [
+		{
+			"content": "7",
+			"start": 0,
+			"end": 1200
+		}
+	],
+	"final": [
+		{
+			"content": "Wow,",
+			"start": 0,
+			"end": 860
+		},
+		{
+			"content": "we collected a lot of rocks!",
+			"start": 860,
+			"end": 3117
+		},
+		{
+			"content": "They are going to make",
+			"start": 3117,
+			"end": 3843
+		},
+		{
+			"content": " the most beautiful collection!",
+			"start": 3843,
+			"end": 7446
+		}
+	],
+	"hint": [
+		{
+			"content": "You can move the object under the rock",
+			"start": 0,
+			"end": 2340
+		},
+		{
+			"content": "to figure out how long the rock is.",
+			"start": 2340,
+			"end": 4901
+		},
+		{
+			"content": "Once you know how many",
+			"start": 4901,
+			"end": 5922
+		},
+		{
+			"content": "objects you need",
+			"start": 5922,
+			"end": 7442
+		},
+		{
+			"content": "click on the right number!",
+			"start": 7442,
+			"end": 9122
+		}
+	],
+	"howMany_block": [
+		{
+			"content": "How many blocks long",
+			"start": 0,
+			"end": 1345
+		},
+		{
+			"content": "is this rock?",
+			"start": 1345,
+			"end": 2767
+		}
+	],
+	"howMany_crayon": [
+		{
+			"content": "How many crayons long",
+			"start": 0,
+			"end": 1470
+		},
+		{
+			"content": "is this rock?",
+			"start": 1470,
+			"end": 2908
+		}
+	],
+	"howMany_dice": [
+		{
+			"content": "How many dice long",
+			"start": 0,
+			"end": 1337
+		},
+		{
+			"content": "is this rock?",
+			"start": 1337,
+			"end": 2527
+		}
+	],
+	"howMany_paperclip": [
+		{
+			"content": "How many paperclips long",
+			"start": 0,
+			"end": 1485
+		},
+		{
+			"content": "is this rock?",
+			"start": 1485,
+			"end": 2730
+		}
+	],
+	"howMany_shovel": [
+		{
+			"content": "How many shovels long",
+			"start": 0,
+			"end": 1398
+		},
+		{
+			"content": "is this rock?",
+			"start": 1398,
+			"end": 2778
+		}
+	],
+	"howMany_toothbrush": [
+		{
+			"content": "How many toothbrushes long",
+			"start": 0,
+			"end": 1740
+		},
+		{
+			"content": "is this rock?",
+			"start": 1740,
+			"end": 3110
+		}
+	],
+	"instructions": [
+		{
+			"content": "Let's measure some big rocks",
+			"start": 0,
+			"end": 1590
+		},
+		{
+			"content": "with something smaller.",
+			"start": 1590,
+			"end": 2958
+		},
+		{
+			"content": "You can move the object",
+			"start": 2958,
+			"end": 4278
+		},
+		{
+			"content": "under the rock to figure out",
+			"start": 4278,
+			"end": 5908
+		},
+		{
+			"content": "how long the rock is",
+			"start": 5908,
+			"end": 7718
+		},
+		{
+			"content": "Once you know how many objects you need,",
+			"start": 7718,
+			"end": 10287
+		},
+		{
+			"content": "click on the right number.",
+			"start": 10287,
+			"end": 12117
+		}
+	],
+	"right1": [
+		{
+			"content": "That's right!",
+			"start": 0,
+			"end": 1810
+		}
+	],
+	"right2": [
+		{
+			"content": "Good measuring!",
+			"start": 0,
+			"end": 1820
+		}
+	],
+	"wrong1": [
+		{
+			"content": "Uh-oh!",
+			"start": 0,
+			"end": 1090
+		},
+		{
+			"content": "That's not the right length.",
+			"start": 1090,
+			"end": 2480
+		},
+		{
+			"content": "Try again!",
+			"start": 2480,
+			"end": 3710
+		}
+	],
+	"wrong2": [
+		{
+			"content": "Almost!",
+			"start": 0,
+			"end": 1040
+		},
+		{
+			"content": "Try again!",
+			"start": 1040,
+			"end": 2260
+		}
+	],
+	"wrongFewer": [
+		{
+			"content": "You need fewer.",
+			"start": 0,
+			"end": 1890
+		}
+	],
+	"wrongMore": [
+		{
+			"content": "You need more.",
+			"start": 0,
+			"end": 1370
+		}
+	]
 }
